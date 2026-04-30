@@ -1,3 +1,3 @@
-ImparaRfacendo - dati
+Dati per imparaRfacendo
 
-I file di dati si trovano in /Rdati
+I file di dati vanno copiati in C:\Rdati
